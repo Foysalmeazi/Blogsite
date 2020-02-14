@@ -1,0 +1,17 @@
+
+.imgrc img{
+    height: 360px;
+    width: 100%;
+}
+.imgdetails
+{
+    text-align: center;
+}
+.imgdetails p{
+    color:black;
+    font-weight: 100;
+    font-size: 14px;
+  
+    
+   
+}

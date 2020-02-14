@@ -1,0 +1,29 @@
+.header
+{
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    padding-top: 13px;
+    height: 50px;
+}
+
+
+.header-menu a
+{
+    letter-spacing: 1px;
+    margin:0px 10px;
+    color: #565673;
+    text-decoration: none;
+    font-size: 15px;
+    display: inline-block;
+
+}
+.header-menu a:hover{
+    color: #5f9ea0;
+    border: 1px solid white;
+    border-radius: 2px;
+    padding: 0px 2px;
+}
+#sicon{
+    padding-right: 10px;
+}

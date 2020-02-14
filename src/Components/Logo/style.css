@@ -1,0 +1,15 @@
+.logo
+{
+    text-align: center;
+}
+.logo a
+{
+    font-family: 'Roboto Mono', monospace;
+    font-size: 40px; 
+    text-decoration: none;
+    color: black;  
+}
+.title span{
+    color: #4077b5;
+    font-family: 'Josefin Sans', sans-serif;
+}

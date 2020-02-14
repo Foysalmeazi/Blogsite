@@ -1,0 +1,39 @@
+.blogpost-container
+{
+    height: 842px;
+    width: 70%;
+    background-color: #ffffff;
+    
+    
+}
+.header-menu
+{
+    text-align: center;
+}
+.title
+{
+    letter-spacing: 0.5;
+    font-size: 28px;
+    text-transform: capitalize;
+    font-weight: 400;
+    margin: 0;
+}
+.category
+{
+    font-size: 16px;
+    padding: 10px 0;
+    display: block;
+}
+.postby
+{
+    font-size: 17px;
+    font-style: italic;
+}
+.postimage img{
+    height: 320px;
+    width: 577px;
+}
+.tiltetext
+{
+    padding-left: 20px;
+}

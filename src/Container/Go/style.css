@@ -1,0 +1,42 @@
+.healthdes h2
+{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    border-bottom: 1px solid rgb(196, 206, 196);
+    
+    
+}
+.healthdes p
+{
+padding: 10px 20px;
+font-size: 14px;
+font-weight: 100;
+text-align: justify;
+}
+.healthdes
+{
+    background-color: hsla(0, 22%, 96%, 0.973); 
+    padding: 20px ;
+
+}
+.healthdes .saying pre #line{
+    margin-left: 20%;
+    
+}
+.healthdes .saying pre #line2
+{
+    margin-left: 40%;
+    color: darkcyan;
+}
+.healthdes .saying
+{
+    text-align: center;
+}
+.healthdes .saying #lnk
+{
+    text-align: center;
+    font-size: medium;
+}
+.healthdes .saying #lnk a{
+    margin-left: 5px;
+}
