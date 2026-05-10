@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/Blogsite/static/css/main.bd904146.chunk.css",
+    "main.js": "/Blogsite/static/js/main.9de2aa86.chunk.js",
+    "main.js.map": "/Blogsite/static/js/main.9de2aa86.chunk.js.map",
+    "runtime-main.js": "/Blogsite/static/js/runtime-main.a00b75d2.js",
+    "runtime-main.js.map": "/Blogsite/static/js/runtime-main.a00b75d2.js.map",
+    "static/js/2.30669134.chunk.js": "/Blogsite/static/js/2.30669134.chunk.js",
+    "static/js/2.30669134.chunk.js.map": "/Blogsite/static/js/2.30669134.chunk.js.map",
+    "index.html": "/Blogsite/index.html",
+    "precache-manifest.055cb823d32276e941f29bac2e023dfe.js": "/Blogsite/precache-manifest.055cb823d32276e941f29bac2e023dfe.js",
+    "service-worker.js": "/Blogsite/service-worker.js",
+    "static/css/main.bd904146.chunk.css.map": "/Blogsite/static/css/main.bd904146.chunk.css.map",
+    "static/js/2.30669134.chunk.js.LICENSE.txt": "/Blogsite/static/js/2.30669134.chunk.js.LICENSE.txt",
+    "static/media/BlogpostImagesaffection-baby.jpg": "/Blogsite/static/media/BlogpostImagesaffection-baby.e2828d8e.jpg",
+    "static/media/Breath.jpeg": "/Blogsite/static/media/Breath.2de0b0bb.jpeg",
+    "static/media/Love-Hormon.jpg": "/Blogsite/static/media/Love-Hormon.87dee2d8.jpg",
+    "static/media/Meatloaf.jpg": "/Blogsite/static/media/Meatloaf.857d1bd4.jpg",
+    "static/media/Nutrition.jpg": "/Blogsite/static/media/Nutrition.ab0cb407.jpg",
+    "static/media/beautiful-&-simple.jpg": "/Blogsite/static/media/beautiful-&-simple.b54ac706.jpg",
+    "static/media/cestovat.jpg": "/Blogsite/static/media/cestovat.ae1d0c8a.jpg",
+    "static/media/fb.jpg": "/Blogsite/static/media/fb.46313aa8.jpg",
+    "static/media/memories-from.jpg": "/Blogsite/static/media/memories-from.54cc53d4.jpg",
+    "static/media/second.jpg": "/Blogsite/static/media/second.2737bdd4.jpg",
+    "static/media/sit.jpg": "/Blogsite/static/media/sit.72f96973.jpg",
+    "static/media/walking.jpg": "/Blogsite/static/media/walking.2aac8d8b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a00b75d2.js",
+    "static/js/2.30669134.chunk.js",
+    "static/css/main.bd904146.chunk.css",
+    "static/js/main.9de2aa86.chunk.js"
+  ]
+}
